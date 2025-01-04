@@ -3,3 +3,4 @@ obj/
 *.suo
 *.vsidx
 *.v2
+.vs/
