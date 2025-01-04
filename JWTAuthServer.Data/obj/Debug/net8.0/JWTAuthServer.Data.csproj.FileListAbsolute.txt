@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\JWTAuthServer\JWTAuthServer.Data\bin\Debug\net8.0\JWTAuthServer.Data.deps.json
+C:\Users\HP\source\repos\JWTAuthServer\JWTAuthServer.Data\bin\Debug\net8.0\JWTAuthServer.Data.dll
+C:\Users\HP\source\repos\JWTAuthServer\JWTAuthServer.Data\bin\Debug\net8.0\JWTAuthServer.Data.pdb
+C:\Users\HP\source\repos\JWTAuthServer\JWTAuthServer.Data\bin\Debug\net8.0\JWTAuthServer.Core.dll
+C:\Users\HP\source\repos\JWTAuthServer\JWTAuthServer.Data\bin\Debug\net8.0\JWTAuthServer.Core.pdb
+C:\Users\HP\source\repos\JWTAuthServer\JWTAuthServer.Data\obj\Debug\net8.0\JWTAuthServer.Data.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\JWTAuthServer\JWTAuthServer.Data\obj\Debug\net8.0\JWTAuthServer.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\JWTAuthServer\JWTAuthServer.Data\obj\Debug\net8.0\JWTAuthServer.Data.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\JWTAuthServer\JWTAuthServer.Data\obj\Debug\net8.0\JWTAuthServer.Data.AssemblyInfo.cs
+C:\Users\HP\source\repos\JWTAuthServer\JWTAuthServer.Data\obj\Debug\net8.0\JWTAuthServer.Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\JWTAuthServer\JWTAuthServer.Data\obj\Debug\net8.0\JWTAuthServer.Data.csproj.CopyComplete
+C:\Users\HP\source\repos\JWTAuthServer\JWTAuthServer.Data\obj\Debug\net8.0\JWTAuthServer.Data.dll
+C:\Users\HP\source\repos\JWTAuthServer\JWTAuthServer.Data\obj\Debug\net8.0\refint\JWTAuthServer.Data.dll
+C:\Users\HP\source\repos\JWTAuthServer\JWTAuthServer.Data\obj\Debug\net8.0\JWTAuthServer.Data.pdb
+C:\Users\HP\source\repos\JWTAuthServer\JWTAuthServer.Data\obj\Debug\net8.0\ref\JWTAuthServer.Data.dll

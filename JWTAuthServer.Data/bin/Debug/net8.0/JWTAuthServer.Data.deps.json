@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "JWTAuthServer.Data/1.0.0": {
+        "dependencies": {
+          "JWTAuthServer.Core": "1.0.0"
+        },
+        "runtime": {
+          "JWTAuthServer.Data.dll": {}
+        }
+      },
+      "JWTAuthServer.Core/1.0.0": {
+        "runtime": {
+          "JWTAuthServer.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JWTAuthServer.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JWTAuthServer.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
