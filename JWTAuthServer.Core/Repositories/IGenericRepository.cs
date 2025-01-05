@@ -11,8 +11,8 @@ namespace JWTAuthServer.Core.Interfaces
     {
         Task<T> GetByIdAsync(int id);
         T GetById(int id);
-        Task<IQueryable<T>> GetAllAsync();
-        IQueryable<T> GetAll();
+        Task<IEnumerable<T>> GetAllAsync();
+        IEnumerable<T> GetAll();
         IQueryable<T> Where(Expression<Func<T, bool>> predicate);
         Task AddAsync(T entity);
         T Update(T entity);

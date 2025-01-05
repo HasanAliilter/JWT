@@ -9,6 +9,6 @@ namespace JWTAuthServer.Core.UnitOfWork
     public interface IUnitOfWork : IAsyncDisposable
     {
         Task CommitAsync();
-        Task Commit();
+        void Commit();
     }
 }
