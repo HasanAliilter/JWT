@@ -15,8 +15,8 @@ namespace JWTAuthServer.Core.Services
         Task<Response<IEnumerable<TDto>>> GetAllAsync();
         Response<IEnumerable<TDto>> GetAll();
         Task<Response<IEnumerable<TDto>>> Where(Expression<Func<T, bool>> predicate); //api üzerinde artık herhangi bir bussiness kodu yazmayacağımız için IEnumerable doğru seçim olacaktır
-        Task<Response<TDto>> AddAsync(T entity);
-        Task<Response<EmptyDto>> Update(T entity);
-        Task<Response<EmptyDto>> Remove(T entity);
+        Task<Response<TDto>> AddAsync(TDto entity);
+        Task<Response<EmptyDto>> Update(int id, TDto entity);
+        Task<Response<EmptyDto>> Remove(int id);
     }
 }
